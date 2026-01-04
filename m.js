@@ -24,7 +24,7 @@ let arrOfIds = ["card1","card2","card3","card4","card5","card6","card7","card8"]
 let arrOfSrcs = [
   "5293bd86-b9a0-4b8a-bb98-13d50f8d183a.jpeg",
   "5293bd86-b9a0-4b8a-bb98-13d50f8d183a.jpeg",
-  "549f664d-51ee-4594-997b-3c243ffafbfc.jpeg
+  "549f664d-51ee-4594-997b-3c243ffafbfc.jpeg",
   "549f664d-51ee-4594-997b-3c243ffafbfc.jpeg",
   "file:///Users/mompatimasiangoako/Desktop/Memory%20game%201.0/54dafbf2-c0df-4948-bc0e-0ec3b017e689.jpeg",
   "file:///Users/mompatimasiangoako/Desktop/Memory%20game%201.0/54dafbf2-c0df-4948-bc0e-0ec3b017e689.jpeg",
