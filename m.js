@@ -28,8 +28,8 @@ let arrOfSrcs = [
   "549f664d-51ee-4594-997b-3c243ffafbfc.jpeg",
   "54dafbf2-c0df-4948-bc0e-0ec3b017e689.jpeg",
   "54dafbf2-c0df-4948-bc0e-0ec3b017e689.jpeg",
-  "file:///Users/mompatimasiangoako/Desktop/Memory%20game%201.0/eb9c9d40-945e-41cc-a294-f22aa98bc58b.jpeg",
-  "file:///Users/mompatimasiangoako/Desktop/Memory%20game%201.0/eb9c9d40-945e-41cc-a294-f22aa98bc58b.jpeg"
+  "eb9c9d40-945e-41cc-a294-f22aa98bc58b.jpeg",
+  "eb9c9d40-945e-41cc-a294-f22aa98bc58b.jpeg"
 ];
 
 let gameStarted = false;
