@@ -33,7 +33,7 @@ let arrOfSrcs = [
 ];
 
 let gameStarted = false;
-let cardFace = "file:///Users/mompatimasiangoako/Desktop/Screenshot%202025-10-06%20at%2013.54.37.png";
+let cardFace = "Screenshot 2025-10-06 at 13.54.37.png";
 
 function derangedShuffle(arr) {
   let r = arr.slice(), n = r.length;
